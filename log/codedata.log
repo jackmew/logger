@@ -1,0 +1,17 @@
+INFO main [14/08/06 18:24:55:832] tw.com.codedata.App - Hello Maven with log4j
+INFO main [14/08/06 18:40:50:537] tw.com.codedata.App02 - logger for App02
+INFO main [14/08/07 09:40:04:662] tw.com.codedata.App02 - logger for App02
+INFO main [14/08/07 09:49:38:878] tw.com.codedata.App02 - logger for App02
+INFO main [14/08/07 09:50:14:651] tw.com.codedata.App02 - logger for App02
+WARN main [14/08/07 09:50:14:655] tw.com.codedata.App02 - logger for App02
+ERROR main [14/08/07 09:50:14:656] tw.com.codedata.App02 - logger for App02
+DEBUG main [14/08/07 09:51:27:279] tw.com.codedata.App02 - logger for App02
+INFO main [14/08/07 09:51:27:283] tw.com.codedata.App02 - logger for App02
+WARN main [14/08/07 09:51:27:284] tw.com.codedata.App02 - logger for App02
+ERROR main [14/08/07 09:51:27:284] tw.com.codedata.App02 - logger for App02
+INFO main [14/08/07 10:02:07:282] tw.com.codedata.App02 - logger for App02
+WARN main [14/08/07 10:02:07:285] tw.com.codedata.App02 - logger for App02
+ERROR main [14/08/07 10:02:07:285] tw.com.codedata.App02 - logger for App02
+INFO main [14/08/07 10:04:31:204] tw.com.codedata.App02 - logger for App02
+WARN main [14/08/07 10:04:31:208] tw.com.codedata.App02 - logger for App02
+ERROR main [14/08/07 10:04:31:208] tw.com.codedata.App02 - logger for App02
